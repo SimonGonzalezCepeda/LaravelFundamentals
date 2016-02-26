@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Vehicle;
+namespace App\Vehicles;
 
 class Jeep
 {

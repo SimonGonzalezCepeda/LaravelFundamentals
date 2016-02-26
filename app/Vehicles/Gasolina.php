@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Vehicle;
+namespace App\Vehicles;
 
 
 class Gasolina implements Fuel
