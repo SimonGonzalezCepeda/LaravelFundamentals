@@ -22,11 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MenuServiceProvider.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Providers/MenuServiceProvider.php">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30991217">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.71769136">
+              <caret line="69" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,6 +39,7 @@
       <list>
         <option value="$PROJECT_DIR$/public/index.php" />
         <option value="$PROJECT_DIR$/app/Providers/MenuServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
       </list>
     </option>
   </component>
@@ -283,24 +284,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LaravelFundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LaravelFundamentals" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Providers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -308,7 +291,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="kernel.php&#9;FILE&#9;file:///home/sylver/Code/Laravels/LaravelFundamentals/app/Http/Kernel.php" />
+    <property name="SearchEverywhereHistoryKey" value="routes&#9;FILE&#9;file:///home/sylver/Code/Laravels/LaravelFundamentals/app/Http/routes.php&#10;kernel.php&#9;FILE&#9;file:///home/sylver/Code/Laravels/LaravelFundamentals/app/Http/Kernel.php" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -334,7 +317,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288835" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -391,19 +374,6 @@
             <marker date="1456501330952" expanded="true" signature="1404:1498" placeholder="..." />
             <marker date="1456501330952" expanded="true" signature="1614:1792" placeholder="{...}" />
             <marker date="1456501330952" expanded="true" signature="1689:1789" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artisan">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40777916">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <marker date="1456501090176" expanded="false" signature="28:479" placeholder="..." />
-            <marker date="1456501090176" expanded="true" signature="580:972" placeholder="..." />
-            <marker date="1456501090176" expanded="true" signature="1069:1185" placeholder="..." />
-            <marker date="1456501090176" expanded="true" signature="1191:1589" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -512,30 +482,6 @@
             <marker date="1456326816000" expanded="true" signature="7441:7527" placeholder="{...}" />
             <marker date="1456326816000" expanded="true" signature="7536:7654" placeholder=" Get the Laravel application instance. ..." />
             <marker date="1456326816000" expanded="true" signature="7693:7732" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456501301164" expanded="true" signature="0:1350" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
-            <marker date="1456501301164" expanded="true" signature="180:342" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
-            <marker date="1456501301164" expanded="true" signature="363:569" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
-            <marker date="1456501301164" expanded="true" signature="587:707" placeholder="{...}" />
-            <marker date="1456501301164" expanded="true" signature="609:643" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="662:701" placeholder="{&quot;App\&quot;: &quot;app/&quot;...}" />
-            <marker date="1456501301164" expanded="true" signature="729:801" placeholder="{...}" />
-            <marker date="1456501301164" expanded="true" signature="751:795" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="818:1289" placeholder="{...}" />
-            <marker date="1456501301164" expanded="true" signature="857:923" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="960:1010" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="1040:1128" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="1156:1208" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="1237:1283" placeholder="[...]" />
-            <marker date="1456501301164" expanded="true" signature="1305:1348" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -801,21 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1456501090168" expanded="false" signature="37:175" placeholder="..." />
-            <marker date="1456501090168" expanded="true" signature="226:692" placeholder="{...}" />
-            <marker date="1456501090168" expanded="true" signature="236:315" placeholder=" The policy mappings for the application. ..." />
-            <marker date="1456501090168" expanded="true" signature="345:401" placeholder="..." />
-            <marker date="1456501090168" expanded="true" signature="412:579" placeholder=" Register any application authentication / authorization services. ..." />
-            <marker date="1456501090168" expanded="true" signature="626:690" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -850,10 +781,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1456501301164" expanded="true" signature="0:1350" placeholder="{&quot;name&quot;: &quot;laravel/laravel&quot;...}" />
+            <marker date="1456501301164" expanded="true" signature="180:342" placeholder="{&quot;php&quot;: &quot;&gt;=5.5.9&quot;...}" />
+            <marker date="1456501301164" expanded="true" signature="363:569" placeholder="{&quot;fzaninotto/faker&quot;: &quot;~1.4&quot;...}" />
+            <marker date="1456501301164" expanded="true" signature="587:707" placeholder="{...}" />
+            <marker date="1456501301164" expanded="true" signature="609:643" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="662:701" placeholder="{&quot;App\&quot;: &quot;app/&quot;...}" />
+            <marker date="1456501301164" expanded="true" signature="729:801" placeholder="{...}" />
+            <marker date="1456501301164" expanded="true" signature="751:795" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="818:1289" placeholder="{...}" />
+            <marker date="1456501301164" expanded="true" signature="857:923" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="960:1010" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="1040:1128" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="1156:1208" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="1237:1283" placeholder="[...]" />
+            <marker date="1456501301164" expanded="true" signature="1305:1348" placeholder="{&quot;preferred-install&quot;: &quot;dist&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artisan">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1217064">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <marker date="1456501090176" expanded="false" signature="28:479" placeholder="..." />
+            <marker date="1456501090176" expanded="true" signature="580:972" placeholder="..." />
+            <marker date="1456501090176" expanded="true" signature="1069:1185" placeholder="..." />
+            <marker date="1456501090176" expanded="true" signature="1191:1589" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1456501090196" expanded="true" signature="69:868" placeholder="..." />
+            <marker date="1456501090196" expanded="true" signature="387:520" placeholder="..." />
+            <marker date="1456501090196" expanded="true" signature="437:502" placeholder="..." />
+            <marker date="1456501090196" expanded="true" signature="533:642" placeholder="..." />
+            <marker date="1456501090196" expanded="true" signature="553:628" placeholder="..." />
+            <marker date="1456501090196" expanded="true" signature="652:857" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1456501090168" expanded="false" signature="37:175" placeholder="..." />
+            <marker date="1456501090168" expanded="true" signature="226:692" placeholder="{...}" />
+            <marker date="1456501090168" expanded="true" signature="236:315" placeholder=" The policy mappings for the application. ..." />
+            <marker date="1456501090168" expanded="true" signature="345:401" placeholder="..." />
+            <marker date="1456501090168" expanded="true" signature="412:579" placeholder=" Register any application authentication / authorization services. ..." />
+            <marker date="1456501090168" expanded="true" signature="626:690" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/MenuServiceProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30991217">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.69008785">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+          <folding>
+            <marker date="1456506803848" expanded="true" signature="123:469" placeholder="{...}" />
+            <marker date="1456506803848" expanded="true" signature="133:209" placeholder=" Bootstrap the application services. ..." />
+            <marker date="1456506803848" expanded="true" signature="238:261" placeholder="{...}" />
+            <marker date="1456506803848" expanded="true" signature="270:345" placeholder=" Register the application services. ..." />
+            <marker date="1456506803848" expanded="true" signature="378:467" placeholder="{...}" />
+            <marker date="1456506803848" expanded="true" signature="404:459" placeholder="..." />
+            <marker date="1456506803848" expanded="true" signature="424:458" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71769136">
+          <caret line="69" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>
